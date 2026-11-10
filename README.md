@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Awais Yaqoob!
 
-### 🤖 AI Engineer · 🧠 Machine Learning Engineer · 🔬 Deep Learning Engineer · 📊 Data Science Engineer
+### 🤖 AI Engineer | 🧠 Machine Learning & Deep Learning | ✨ Generative AI, LLMs & RAG
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Exploring+AI%2C+LLMs+%26+RAG;Building+with+Python+and+Data;Learning+Machine+Learning+%26+Deep+Learning;From+Data+to+Meaningful+Predictions" alt="Animated introduction to Awais Yaqoob" />
 
