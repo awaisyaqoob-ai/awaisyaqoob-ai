@@ -22,7 +22,7 @@
 <table>
 <tr><td width="58%" valign="top">
 
-I'm **Awais Yaqoob**, a Python developer and aspiring AI engineer developing skills in **data science, machine learning, deep learning, and generative AI**.
+I'm **Awais Yaqoob**, a aspiring AI engineer developing skills in **data science, machine learning, deep learning, and generative AI**.
 
 - 🐍 Working with Python for practical data and AI projects
 - 📊 Practicing data analysis, visualization, and model evaluation
